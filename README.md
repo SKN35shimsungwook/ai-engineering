@@ -2,10 +2,8 @@
 
 **🔗 바로 실행해 보기:** https://ai-engineering.streamlit.app
 
-AI 엔지니어링(AI Engineering)을 다루는 총 110장 분량의 슬라이드 자료를 Streamlit 웹앱으로
-제공합니다. 각 슬라이드는 Markdown 파일이며, 슬라이드에 인용된 모든 출처(147개, 그중
-YouTube 13개)는 웹(Google)과 YouTube 검색으로 수집해 CSV로 정리한 뒤 SQLite DB로 적재해
-앱 안에서 조회할 수 있습니다.
+AI 엔지니어링을 한 번에 정리해 보고 싶어서 110장 분량의 슬라이드를 만들고, Streamlit 웹앱으로 넘겨 볼 수 있게 했습니다.
+슬라이드는 Markdown 파일로 썼습니다. 근거 없는 내용이 섞이지 않도록 인용한 출처(147개, 그중 YouTube 13개)를 웹과 YouTube 검색으로 모아 CSV로 정리했고, SQLite DB에 넣어 앱 안에서 바로 찾아볼 수 있게 했습니다.
 
 ## 다루는 내용
 
